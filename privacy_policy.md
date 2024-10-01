@@ -1,6 +1,6 @@
-Mostafa Hesham built the Diet And Cheat app as a Free app. This SERVICE is provided by Mostafa Hesham at no cost and is intended for use as is.
+Mostafa Hesham built the Diet & Cheat app as a Free app, but it includes paid in-app purchases and subscriptions. This SERVICE is provided by Mostafa Hesham at no cost and is intended for use as is.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decides to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
@@ -16,7 +16,7 @@ Link to the privacy policy of third-party service providers used by the app
 
 Google Play Services Log Data
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+I want to inform you that whenever you use my Service, in the case of an error in the app, I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
 Cookies
 
@@ -40,7 +40,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 Children’s Privacy
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to take the necessary actions.
 
 Changes to This Privacy Policy
 
