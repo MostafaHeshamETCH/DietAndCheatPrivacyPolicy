@@ -42,6 +42,15 @@ Children’s Privacy
 
 These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to take the necessary actions.
 
+Health Data Collection and Use
+
+This app may collect and process health-related data, such as dietary habits, exercise routines, or weight tracking. This information is used solely for the purpose of providing personalized advice and improving the functionality of the app. The health data is stored locally on your device and is not shared with third parties unless you explicitly opt-in to such sharing.
+
+The health data collected is used to help improve your diet and exercise plans, provide personalized suggestions, and track progress over time. This data will not be used for any other purposes unless specified and agreed upon.
+
+In-App Purchases and Subscriptions
+This app includes in-app purchases and subscriptions. Payment processing is handled by third-party payment providers. We do not store or process your payment information directly. Please refer to the privacy policies of the respective payment providers for more details on their data handling practices.
+
 Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
